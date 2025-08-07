@@ -109,23 +109,6 @@ Moreover, **optimizer choice matters**:
   Finally, longer training **does not guarantee better generalization**. Several models showed early signs of overfitting beyond 50 epochs, reinforcing the importance of **early stopping** and **mode regularization** in deep learning workflows.
 ---
 
-## 📁 Project Structure
-
-```
-final_deep_learning/
-├── models/
-├── data/
-│   ├── audio/
-│   └── spectrograms/
-├── utils/
-│   └── feature_extraction.py
-├── train.py
-├── evaluate.py
-└── README.md
-```
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
