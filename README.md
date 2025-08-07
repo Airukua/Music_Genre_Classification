@@ -106,7 +106,7 @@ Moreover, **optimizer choice matters**:
 
 * **Adam** consistently outperformed **RMSprop**, offering more stability across different architectures.
 
-Finally, longer training **does not guarantee better generalization**. Several models showed early signs of overfitting beyond 50 epochs, reinforcing the importance of **early stopping** and **model regularization** in deep learning workflows.
+  Finally, longer training **does not guarantee better generalization**. Several models showed early signs of overfitting beyond 50 epochs, reinforcing the importance of **early stopping** and **mode regularization** in deep learning workflows.
 ---
 
 ## 📁 Project Structure
